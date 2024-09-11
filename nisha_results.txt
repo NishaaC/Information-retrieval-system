@@ -1,0 +1,3 @@
+Results for 'Fitness AND NOT exercise': ['Balanced diet.txt', 'Sport and Fitness.txt']
+Results for 'Renewable OR reforestation': ['Climate Change and Environment.txt']
+Results for 'learning AND online': ['Education and Learning.txt']
