@@ -1,1 +1,1 @@
-# Information-retrieval-system
+This project implements a simple Boolean retrieval system for text files. It processes text documents, builds an inverted index, and allows users to query the system using Boolean operators (AND, OR, NOT). The system includes functions for cleaning text (removing special characters, tokenizing, lemmatizing, and removing stop words), constructing an inverted index, and handling Boolean queries. Query results are saved to a file named nisha_results.txt.
